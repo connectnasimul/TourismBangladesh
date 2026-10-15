@@ -1,0 +1,19 @@
+{
+  "name": "tourism-bangladesh",
+  "version": "1.0.0",
+  "description": "Beautiful Bangladesh - Six Seasons, 700 Rivers, One Delta",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx -y serve . -p 3000",
+    "dev": "npx -y serve . -p 3000"
+  },
+  "keywords": [
+    "bangladesh",
+    "tourism",
+    "rivers",
+    "six-seasons",
+    "travel"
+  ],
+  "author": "Antigravity",
+  "license": "ISC"
+}
